@@ -1,0 +1,177 @@
+Id. usuario del trabajo: d1estudiante23
+Id. del trabajo: 24325
+Nombre del trabajo especificado por usuario: helloOMP
+Directorio de trabajo (en el que se ejecuta el script):
+/home/d1estudiante23/bp1/ejer10
+Cola: ac
+Nodo que ejecuta este trabajo:atcgrid
+No de nodos asignados al trabajo: 1
+Nodos asignados al trabajo: atcgrid1
+CPUs por nodo: 2
+
+SUMAVECTORES SECUENCIAL: 
+
+
+real	0m0.090s
+user	0m0.002s
+sys	0m0.002s
+
+real	0m0.041s
+user	0m0.002s
+sys	0m0.002s
+
+real	0m0.090s
+user	0m0.002s
+sys	0m0.001s
+
+real	0m0.065s
+user	0m0.003s
+sys	0m0.002s
+
+real	0m0.061s
+user	0m0.002s
+sys	0m0.005s
+
+real	0m0.055s
+user	0m0.004s
+sys	0m0.006s
+
+real	0m0.067s
+user	0m0.008s
+sys	0m0.007s
+
+real	0m0.095s
+user	0m0.015s
+sys	0m0.013s
+
+real	0m0.112s
+user	0m0.029s
+sys	0m0.022s
+
+real	0m0.119s
+user	0m0.054s
+sys	0m0.042s
+
+real	0m0.193s
+user	0m0.093s
+sys	0m0.078s
+
+real	0m0.362s
+user	0m0.174s
+sys	0m0.152s
+
+real	0m0.332s
+user	0m0.153s
+sys	0m0.157s
+
+
+SUMAVECTORES for: 
+
+
+real	0m0.062s
+user	0m0.000s
+sys	0m0.004s
+
+real	0m0.022s
+user	0m0.000s
+sys	0m0.004s
+
+real	0m0.024s
+user	0m0.002s
+sys	0m0.002s
+
+real	0m0.025s
+user	0m0.001s
+sys	0m0.005s
+
+real	0m0.063s
+user	0m0.002s
+sys	0m0.006s
+
+real	0m0.067s
+user	0m0.008s
+sys	0m0.005s
+
+real	0m0.066s
+user	0m0.010s
+sys	0m0.011s
+
+real	0m0.088s
+user	0m0.020s
+sys	0m0.017s
+
+real	0m0.094s
+user	0m0.042s
+sys	0m0.025s
+
+real	0m0.108s
+user	0m0.076s
+sys	0m0.046s
+
+real	0m0.178s
+user	0m0.123s
+sys	0m0.097s
+
+real	0m0.318s
+user	0m0.254s
+sys	0m0.158s
+
+real	0m0.315s
+user	0m0.251s
+sys	0m0.160s
+
+
+SUMAVECTORES sections: 
+
+
+real	0m0.060s
+user	0m0.002s
+sys	0m0.003s
+
+real	0m0.026s
+user	0m0.001s
+sys	0m0.004s
+
+real	0m0.023s
+user	0m0.002s
+sys	0m0.004s
+
+real	0m0.049s
+user	0m0.004s
+sys	0m0.006s
+
+real	0m0.067s
+user	0m0.010s
+sys	0m0.007s
+
+real	0m0.066s
+user	0m0.020s
+sys	0m0.010s
+
+real	0m0.068s
+user	0m0.040s
+sys	0m0.012s
+
+real	0m0.100s
+user	0m0.070s
+sys	0m0.022s
+
+real	0m0.100s
+user	0m0.117s
+sys	0m0.037s
+
+real	0m0.165s
+user	0m0.225s
+sys	0m0.062s
+
+real	0m0.308s
+user	0m0.424s
+sys	0m0.132s
+
+real	0m0.308s
+user	0m0.306s
+sys	0m0.058s
+
+real	0m0.586s
+user	0m0.854s
+sys	0m0.257s

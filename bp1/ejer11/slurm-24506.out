@@ -1,0 +1,109 @@
+Id. usuario del trabajo: d1estudiante23
+Id. del trabajo: 24506
+Nombre del trabajo especificado por usuario: helloOMP
+Directorio de trabajo (en el que se ejecuta el script):
+/home/d1estudiante23/bp1/ejer11
+Cola: ac
+Nodo que ejecuta este trabajo:atcgrid
+No de nodos asignados al trabajo: 1
+Nodos asignados al trabajo: atcgrid1
+CPUs por nodo: 2
+
+SUMAVECTORES SECUENCIAL: 
+
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.003s
+
+real	0m0.055s
+user	0m0.000s
+sys	0m0.003s
+
+real	0m0.044s
+user	0m0.000s
+sys	0m0.003s
+
+real	0m0.055s
+user	0m0.003s
+sys	0m0.002s
+
+real	0m0.092s
+user	0m0.002s
+sys	0m0.004s
+
+real	0m0.086s
+user	0m0.005s
+sys	0m0.004s
+
+real	0m0.107s
+user	0m0.006s
+sys	0m0.010s
+
+real	0m0.083s
+user	0m0.012s
+sys	0m0.015s
+
+real	0m0.100s
+user	0m0.024s
+sys	0m0.028s
+
+real	0m0.115s
+user	0m0.056s
+sys	0m0.039s
+
+real	0m0.193s
+user	0m0.096s
+sys	0m0.076s
+
+real	0m0.348s
+user	0m0.167s
+sys	0m0.161s
+
+
+SUMAVECTORES for: 
+
+
+real	0m0.061s
+user	0m0.001s
+sys	0m0.004s
+
+real	0m0.021s
+user	0m0.000s
+sys	0m0.003s
+
+real	0m0.039s
+user	0m0.002s
+sys	0m0.002s
+
+real	0m0.050s
+user	0m0.004s
+sys	0m0.004s
+
+real	0m0.099s
+user	0m0.005s
+sys	0m0.006s
+
+real	0m0.326s
+user	0m0.011s
+sys	0m0.009s
+
+real	0m0.285s
+user	0m0.019s
+sys	0m0.018s
+
+real	0m0.115s
+user	0m0.070s
+sys	0m0.056s
+
+real	0m0.187s
+user	0m0.141s
+sys	0m0.085s
+
+real	0m0.320s
+user	0m0.252s
+sys	0m0.169s
+
+real	0m0.365s
+user	0m0.263s
+sys	0m0.161s
