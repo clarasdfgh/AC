@@ -1,0 +1,46 @@
+Id. usuario del trabajo: d1estudiante23
+Id. del trabajo: 41105
+Nombre del trabajo especificado por usuario: miscriptATCGRID.sh
+Directorio de trabajo (en el que se ejecuta el script):
+/home/d1estudiante23/bp2/ejer11
+Cola: ac
+Nodo que ejecuta este trabajo:atcgrid
+No de nodos asignados al trabajo: 1
+Nodos asignados al trabajo: atcgrid2
+CPUs por nodo: 2
+3 threads:
+
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 5000: 0.037651906
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 20000: 0.689085580
+
+6 threads:
+
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 5000: 0.028697179
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 20000: 0.593504606
+
+9 threads:
+
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 5000: 0.028761544
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 20000: 0.597661562
+
+12 threads:
+
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 5000: 0.028746807
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 20000: 0.619631002
+

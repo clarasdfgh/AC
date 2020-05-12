@@ -1,0 +1,45 @@
+Id. usuario del trabajo: 
+Id. del trabajo: 
+Nombre del trabajo especificado por usuario: 
+Directorio de trabajo (en el que se ejecuta el script):
+
+Cola: 
+Nodo que ejecuta este trabajo:
+No de nodos asignados al trabajo: 
+Nodos asignados al trabajo: 
+CPUs por nodo: 
+1 thread:
+
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 5000: 0.015331984
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 20000: 0.246143685
+
+2 threads:
+
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 5000: 0.007957144
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 20000: 0.125556012
+
+3 threads:
+
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 5000: 0.006409343
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 20000: 0.098268151
+
+4 threads:
+
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 5000: 0.015377148
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 20000: 0.247148716
