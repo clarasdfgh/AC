@@ -1,0 +1,41 @@
+n = 250
+threads = 2
+
+Tiempo matriz tamanio 250: 0.041321531
+threads = 4
+
+Tiempo matriz tamanio 250: 0.029099767
+threads = 6
+
+Tiempo matriz tamanio 250: 0.030051348
+threads = 8
+
+Tiempo matriz tamanio 250: 0.030805514
+threads = 10
+
+Tiempo matriz tamanio 250: 0.030525298
+threads = 12
+
+Tiempo matriz tamanio 250: 0.030488338
+
+n = 1250
+threads = 2
+
+Tiempo matriz tamanio 1250: 19.189946938
+threads = 4
+
+Tiempo matriz tamanio 1250: 19.201601403
+threads = 6
+
+Tiempo matriz tamanio 1250: 18.955889108
+threads = 8
+
+Tiempo matriz tamanio 1250: 17.902347810
+threads = 10
+
+Tiempo matriz tamanio 1250: 13.162888679
+threads = 12
+
+Tiempo matriz tamanio 1250: 12.671796820
+
+

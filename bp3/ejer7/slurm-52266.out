@@ -1,0 +1,78 @@
+Id. usuario del trabajo: d1estudiante23
+Id. del trabajo: 52266
+Nombre del trabajo especificado por usuario: pmvt-openMP_atcgrid.sh
+Directorio de trabajo (en el que se ejecuta el script):
+/home/d1estudiante23/bp3/ejer7
+Cola: ac
+Nodo que ejecuta este trabajo:atcgrid
+No de nodos asignados al trabajo: 1
+Nodos asignados al trabajo: atcgrid1
+CPUs por nodo: 2
+
+STATIC
+
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 16000: 0.171882813
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 16000: 0.171577729
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 16000: 0.172012578
+DYNAMIC 
+
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 16000: 0.171822063
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 16000: 0.171781251
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 16000: 0.172023527
+GUIDED
+
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 16000: 0.171576714
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 16000: 0.171455927
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 16000: 0.171993181
+
+STATIC
+
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 36000: 0.822397772
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 36000: 0.814180432
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 36000: 0.818708209
+DYNAMIC 
+
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 36000: 0.823533586
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 36000: 0.814166323
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 36000: 0.813170908
+GUIDED
+
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 36000: 0.817531695
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 36000: 0.817366535
+Ejecutando de forma DINAMICA
+
+Tiempo matriz tamanio 36000: 0.820519730
