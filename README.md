@@ -1,8 +1,6 @@
-# AC 2019-2020
+# AC 2019-2020 y 2021-2022
 #### ↩️ [Grado en Ingeniería Informática](https://github.com/clarasdfgh/GII)
 
 Prácticas de la asignatura Arquitectura de Computadores del GII en la Universidad de Granada
 
 
-
-###### No garantizo corrección ni me hago responsable de nada, pero los BP1-3 están aprobados decentemente
